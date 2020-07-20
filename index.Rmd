@@ -1,5 +1,25 @@
 ---
-title: "Welcome to my website!"
+title: "About"
+output: 
+  html_document:
+    includes:
+      after_body: footer.Rhtml
 ---
 
-You're up and running!
+***
+
+<img src="website_image.jpg" style="width:25%; border:1px solid; margin-right: 20px" align="left">
+
+I was formally trained as an epidemiologist at the [Johns Hopkins University School of Public Health](https://www.jhsph.edu/).
+
+I am primarily interested in studying treatment availability and delivery for substance use disorders. My current work examines the role of area-level factors in buprenorphine provider prevalence. 
+
+I am also interested in the use of GIS and spatial statistics in epidemiological investigations. 
+
+At [the Open Case Studies project](https://opencasestudies.github.io/), I create case studies that showcase data analysis and visualization in the R programming environment.
+
+I am currently looking for a position in an epidemiologist or data analyst role in the [Seattle Metropolitan Area](https://en.wikipedia.org/wiki/Seattle_metropolitan_area?oldformat=true).
+
+You can find my CV and resume on my GitHub page.
+
+***

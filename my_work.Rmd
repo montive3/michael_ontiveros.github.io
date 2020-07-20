@@ -1,0 +1,28 @@
+---
+title: "My Work"
+output: 
+  html_document:
+    includes:
+      after_body: footer.Rhtml
+---
+
+***
+
+### Research
+
+***
+
+### Teaching
+
+#### What would be the societal cost of an intervention of purposeful exposure to SARS-CoV-2?
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+
+**Disclaimer** This is for demonstration only. The author provides no guarantee of its accuracy. 
+
+</div>
+
+***
