@@ -1,0 +1,15 @@
+---
+title: "Email"
+output: 
+  html_document:
+    includes:
+      after_body: footer.Rhtml
+---
+
+***
+
+Feel free to contact me at: 
+
+**montive97@gmail.com**
+
+***
