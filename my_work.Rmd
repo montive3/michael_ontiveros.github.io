@@ -10,19 +10,19 @@ output:
 
 ### Research
 
+[Incidence, survival, pathology, and genetics of adult Latino Americans with glioblastoma](https://link.springer.com/content/pdf/10.1007/s11060-017-2377-0.pdf)
+
 ***
 
-### Teaching
-
-#### What would be the societal cost of an intervention of purposeful exposure to SARS-CoV-2?
+### Case Studies
 
 <style>
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 <div class = "blue">
-
-**Disclaimer** This is for demonstration only. The author provides no guarantee of its accuracy. 
-
+**Disclaimer** These are for demonstration purposes only. The author provides no guarantee of its accuracy. 
 </div>
+
+[**Vaping Behaviors in American Youth**](https://opencasestudies.github.io/ocs-bloomberg-vaping-case-study/index2.html)
 
 ***
