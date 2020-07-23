@@ -10,7 +10,7 @@ output:
 
 ### Research
 
-[Incidence, survival, pathology, and genetics of adult Latino Americans with glioblastoma](https://link.springer.com/content/pdf/10.1007/s11060-017-2377-0.pdf)
+Shabihkhani M, Telesca D, Movassaghi M, et al. Incidence, survival, pathology, and genetics of adult Latino Americans with glioblastoma. J Neurooncol. 2017;132(2):351-358. [https://link.springer.com/content/pdf/10.1007/s11060-017-2377-0.pdf](https://link.springer.com/content/pdf/10.1007/s11060-017-2377-0.pdf). doi: 10.1007/s11060-017-2377-0.
 
 ***
 
@@ -23,6 +23,6 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 **Disclaimer** These are for demonstration purposes only. The author provides no guarantee of its accuracy. 
 </div>
 
-[**Vaping Behaviors in American Youth**](https://opencasestudies.github.io/ocs-bloomberg-vaping-case-study/index2.html)
+[**Vaping Behaviors in American Youth**](https://opencasestudies.github.io/ocs-bloomberg-vaping-case-study/index.html)
 
 ***
