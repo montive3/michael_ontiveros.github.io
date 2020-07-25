@@ -20,8 +20,10 @@ Shabihkhani M, Telesca D, Movassaghi M, et al. Incidence, survival, pathology, a
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 <div class = "blue">
-**Disclaimer** These are for demonstration purposes only. The author provides no guarantee of its accuracy. 
+**Disclaimer** These are for demonstration purposes only. The author provides no guarantees. 
 </div>
+
+[**Exploring CO2 emissions across time**](https://opencasestudies.github.io/ocs-bp-co2-emissions/)
 
 [**Vaping Behaviors in American Youth**](https://opencasestudies.github.io/ocs-bloomberg-vaping-case-study/index.html)
 
