@@ -1,10 +1,12 @@
 ---
-title: "Previous Work"
+title: "My Work"
 output: 
   html_document:
     includes:
       after_body: footer.Rhtml
 ---
+
+# {.tabset .tabset-fade .tabset-pills}
 
 <style>
 .center {
@@ -12,11 +14,11 @@ output:
 }
 </style>
 
-***
+## Previous
 
 ### Research
 
-##### Incidence, survival, pathology, and genetics of adult Latino Americans with glioblastoma
+#### Incidence, survival, pathology, and genetics of adult Latino Americans with glioblastoma
 
 Shabihkhani M, Telesca D, Movassaghi M, et al. Incidence, survival, pathology, and genetics of adult Latino Americans with glioblastoma. J Neurooncol. 2017;132(2):351-358. [https://link.springer.com/content/pdf/10.1007/s11060-017-2377-0.pdf](https://link.springer.com/content/pdf/10.1007/s11060-017-2377-0.pdf). doi: 10.1007/s11060-017-2377-0.
 
@@ -24,20 +26,28 @@ Shabihkhani M, Telesca D, Movassaghi M, et al. Incidence, survival, pathology, a
 
 ### Case Studies
 
-<style>
-div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
-</style>
-<div class = "blue">
+[**Exploring CO2 emissions across time**](https://opencasestudies.github.io/ocs-bp-co2-emissions/)
 
-**Disclaimer**
+[**Vaping Behaviors in American Youth**](https://opencasestudies.github.io/ocs-bloomberg-vaping-case-study/index.html)
 
-The following case studies are for demonstration purposes only.
+## Current
 
-The author provides no guarantees. 
-</div>
+***
 
-<p class="center">[**Exploring CO2 emissions across time**](https://opencasestudies.github.io/ocs-bp-co2-emissions/)</p>
+### Research
 
-<p class="center">[**Vaping Behaviors in American Youth**](https://opencasestudies.github.io/ocs-bloomberg-vaping-case-study/index.html)</p>
+#### Buprenorphine provider availability
+
+I am currently writing a manuscript that discusses area-level factors that may contribute to treatment availability for opioid use disorders. 
+
+#### Bias in epidemiologic investigations 
+
+I am currently conducting simulation-based experiments examining the effect of several biases commonly found in epidemiologic studies on statistical inference.
+
+***
+
+### Service
+
+I am currently putting together an organization that will provide resources for safer drug use to people who use drugs.
 
 ***

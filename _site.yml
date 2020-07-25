@@ -3,12 +3,10 @@ output_dir: "."
 navbar:
   title: "Michael Ontiveros"
   left:
-    - text: "About Me"
+    - text: "About"
       href: index.html
-    - text: "Previous Work"
-      href: my_work.html  
-    - text: "Current Work"
-      href: in_progress.html
+    - text: "My Work"
+      href: my_work.html
   right:
     - icon: fa-envelope fa-lg
       href: email.html

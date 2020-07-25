@@ -8,19 +8,19 @@ output:
 
 ***
 
-### Research
+## Research
 
-##### Buprenorphine provider availability
+### Buprenorphine provider availability
 
 I am currently writing a manuscript that discusses area-level factors that may contribute to treatment availability for opioid use disorders. 
 
-##### Bias in epidemiologic investigations 
+### Bias in epidemiologic investigations 
 
 I am currently conducting simulation-based experiments examining the effect of several biases commonly found in epidemiologic studies on statistical inference.
 
 ***
 
-### Service
+## Service
 
 I am currently putting together an organization that will provide resources for safer drug use to people who use drugs.
 
