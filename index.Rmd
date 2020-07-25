@@ -14,7 +14,7 @@ I was formally trained as an epidemiologist at the [Johns Hopkins University Sch
 
 I am primarily interested in studying treatment availability and delivery for substance use disorders. My current work examines the role of area-level factors in buprenorphine provider prevalence. 
 
-I am also interested in the use of GIS and spatial statistics in epidemiological investigations. 
+I am also interested in the use of GIS and spatial statistics in epidemiologic investigations. 
 
 At [the Open Case Studies project](https://opencasestudies.github.io/), I create case studies that showcase data analysis and visualization in the R programming environment.
 

@@ -1,14 +1,22 @@
 ---
-title: "My Work"
+title: "Previous Work"
 output: 
   html_document:
     includes:
       after_body: footer.Rhtml
 ---
 
+<style>
+.center {
+ text-align: center
+}
+</style>
+
 ***
 
 ### Research
+
+##### Incidence, survival, pathology, and genetics of adult Latino Americans with glioblastoma
 
 Shabihkhani M, Telesca D, Movassaghi M, et al. Incidence, survival, pathology, and genetics of adult Latino Americans with glioblastoma. J Neurooncol. 2017;132(2):351-358. [https://link.springer.com/content/pdf/10.1007/s11060-017-2377-0.pdf](https://link.springer.com/content/pdf/10.1007/s11060-017-2377-0.pdf). doi: 10.1007/s11060-017-2377-0.
 
@@ -20,11 +28,16 @@ Shabihkhani M, Telesca D, Movassaghi M, et al. Incidence, survival, pathology, a
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 <div class = "blue">
-**Disclaimer** These are for demonstration purposes only. The author provides no guarantees. 
+
+**Disclaimer**
+
+The following case studies are for demonstration purposes only.
+
+The author provides no guarantees. 
 </div>
 
-[**Exploring CO2 emissions across time**](https://opencasestudies.github.io/ocs-bp-co2-emissions/)
+<p class="center">[**Exploring CO2 emissions across time**](https://opencasestudies.github.io/ocs-bp-co2-emissions/)</p>
 
-[**Vaping Behaviors in American Youth**](https://opencasestudies.github.io/ocs-bloomberg-vaping-case-study/index.html)
+<p class="center">[**Vaping Behaviors in American Youth**](https://opencasestudies.github.io/ocs-bloomberg-vaping-case-study/index.html)</p>
 
 ***

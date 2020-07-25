@@ -5,9 +5,9 @@ navbar:
   left:
     - text: "About Me"
       href: index.html
-    - text: "My Work"
+    - text: "Previous Work"
       href: my_work.html  
-    - text: "In Progress"
+    - text: "Current Work"
       href: in_progress.html
   right:
     - icon: fa-envelope fa-lg
@@ -18,5 +18,5 @@ navbar:
       href: https://www.linkedin.com/in/michael-o/
 output:
   html_document:
-    theme: paper
+    theme: cosmo
     css: 'styles.css'

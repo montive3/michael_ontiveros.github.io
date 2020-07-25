@@ -1,5 +1,5 @@
 ---
-title: "In Progress"
+title: "Current Work"
 output: 
   html_document:
     includes:
@@ -10,7 +10,13 @@ output:
 
 ### Research
 
-I am currently writing a manuscript on area-level factors that may contribute to treatment availability for opioid use disorders. 
+##### Buprenorphine provider availability
+
+I am currently writing a manuscript that discusses area-level factors that may contribute to treatment availability for opioid use disorders. 
+
+##### Bias in epidemiologic investigations 
+
+I am currently conducting simulation-based experiments examining the effect of several biases commonly found in epidemiologic studies on statistical inference.
 
 ***
 
